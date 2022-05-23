@@ -1,4 +1,4 @@
-from asyncore import write #what is asyncore
+from asyncio import write #what is asyncore
 from turtle import pos
 import pyautogui as pt
 from time import sleep
@@ -30,7 +30,7 @@ def post_response(message):
     pt.typewrite("\n", interval=1)#\n is enter
     
 for i in range(50):
-    post_response('bhaiya?')
+    post_response('Spam!')
     i+=1
     if i>50:
         break
