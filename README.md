@@ -1,5 +1,5 @@
 # whatsapp-spam-bot
-Python must be installed on your desktop, if not download your python from here https://www.python.org/downloads/
+Python must be installed on your desktop. If not, download your python from here https://www.python.org/downloads/
 Follow Below Steps:(msg will be 'Spam!' upto fifty times.)
 1. 1st open your whatsapp and make sure it's in dark mode.
 2. Then open the '.py' in any IDE you want aur have(VScode recommended)
